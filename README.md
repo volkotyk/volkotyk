@@ -37,6 +37,8 @@ I contribute to [JobNavigator](https://github.com/vesaias/JobNavigator), a self-
 
 [All my merged pull requests](https://github.com/vesaias/JobNavigator/pulls?q=is%3Apr+author%3Avolkotyk+is%3Amerged)
 
+At Soft Cannery I worked on [camunda-formio-accelerator](https://github.com/softcannery/camunda-formio-accelerator), an open-source accelerator that adds Form.io forms to Camunda. I'm its most active human contributor (34 commits, 2023 to 2025). I made most of the changes to its GitHub Actions pipeline for build, test, release and publish, added CodeQL and Codacy checks, and moved the project to Camunda 7.20 and Camunda Modeler 5.30.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/vskotyk/)
