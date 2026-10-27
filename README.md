@@ -23,7 +23,7 @@ Certified: AWS Certified AI Practitioner, Google Cloud Professional Cloud Securi
 |---|---|
 | [Paramodo](https://paramodo.com) | Parametric building design for SketchUp. I'm the CTO. The startup is pre-launch and the code is private. |
 | [2kmaf.ca](https://2kmaf.ca) · [client code](https://github.com/2k-maf/2k_client) | Rating platform for a Vancouver Mafia game club: seasonal rating, tournaments, player stats. I co-built the whole thing. |
-| [RSS-fid](https://github.com/volkotyk/RSS-fid) | Serverless podcast RSS feed on AWS Lambda, S3 and API Gateway. Audio stays private in S3 and plays through short-lived pre-signed URLs. Terraform for the infra, GitHub Actions for tests and deploy. |
+| [RSS-feed](https://github.com/volkotyk/RSS-feed) | Serverless podcast RSS feed on AWS Lambda, S3 and API Gateway. Audio stays private in S3 and plays through short-lived pre-signed URLs. Terraform for the infra, GitHub Actions for tests and deploy. |
 | [bc-salmon-map](https://github.com/volkotyk/bc-salmon-map) · [live](https://map.2kmaf.ca/) | Map of where you can fish for salmon in Metro Vancouver, by species and date. Works in English, French and Ukrainian. |
 | [Tekton-with-s3-logs](https://github.com/volkotyk/Tekton-with-s3-logs) | Tekton Pipelines and Dashboard on kind, with pipeline logs shipped to S3 through the BanzaiCloud logging operator. |
 
